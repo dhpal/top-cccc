@@ -1,0 +1,14 @@
+{
+	"Resources": {
+			"KayakoDelhi" : {
+				"Type" : "AWS::S3::Bucket",
+				"Properties" : {
+					"Tags" : [
+			{"Key" : "Name", "Value" : "dhpal-delhi"},
+			{"Key" : "Product", "Value" : "jira"}
+					]
+				}
+		}	
+
+	}
+}

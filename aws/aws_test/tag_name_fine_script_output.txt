@@ -1,0 +1,35 @@
+[31;4mfire1234:[0m
+       Key         Value   
+ 
+  Area            Delhi   
+  organization    Oracle  
+ 
+
+[31;4mhome1234:[0m
+   Key      Value   
+ 
+  Area    Gurgaon  
+ 
+
+[31;4mtest-kayakodelhi-7ths0rniitb7:[0m
+                      Key                                      Value                
+ 
+  Area                                          Chandigarh                         
+  Device                                        Laptop                             
+  First Name                                    Dheeraj Pal                        
+  Pen                                           Ink_write:what:no:said             
+  organization_but_whom_I_contact_to_form_it    TechLead                           
+  Shoe                                          Black-white-hello-no-yes-bro-what  
+  Home                                          White                              
+  Name                                          Harman                             
+ 
+
+[31;4mwater1234:[0m
+       Key           Value     
+ 
+  Vehicle         Car         
+  Area            Chandigarh  
+  organization    TechLead    
+  Name            Harman      
+ 
+
